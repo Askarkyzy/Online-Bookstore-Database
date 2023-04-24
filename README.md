@@ -5,4 +5,4 @@ The goal of this project is to design a database system for an online bookstore.
 
 Link to presentation: https://docs.google.com/presentation/d/1B0fchkZ0IszNwVVmF8dK1ZBUohZejRad1xooXtf3nhU/edit?usp=sharing
 
-Link ti youtube: https://youtu.be/RPX5UeXZG3I
+Link to youtube: https://youtu.be/RPX5UeXZG3I
